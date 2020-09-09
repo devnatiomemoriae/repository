@@ -1,9 +1,9 @@
 {
-  "name": "Grafana",
+  "name": "Grafani",
   "version": "5.2.3",
   "slug": "grafana",
-  "description": "The open platform for beautiful analytics and monitoring",
-  "url": "https://github.com/hassio-addons/addon-grafana",
+  "description": "A open platform for beautiful analytics and monitoring",
+  "url": "https://github.com/devnatiomemoriae/addon-grafana",
   "startup": "system",
   "ingress": true,
   "ingress_port": 1337,
