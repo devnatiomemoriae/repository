@@ -49,5 +49,5 @@
       }
     ]
   },
-  "image": "hassioaddons/grafana-{arch}"
+  "image": "grafana/grafana"
 }
