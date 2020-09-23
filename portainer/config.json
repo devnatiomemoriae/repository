@@ -21,10 +21,12 @@
     "ssl"
   ],
   "ports": {
-    "8000/tcp": null
+    "8000/tcp": null,
+    "9000/tcp": 9000
   },
   "ports_description": {
     "8000/tcp": "Edge Agent Api (Enable when managing remote edge agents)"
+    "9000/tcp": "Web Agent UI"
   },
   "boot": "auto",
   "hassio_api": true,
