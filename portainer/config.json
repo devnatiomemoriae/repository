@@ -43,5 +43,5 @@
     "hide_hassio_containers": "bool",
     "leave_front_door_open": "bool?"
   }, 
-  "image": "poz/poz"
+  "image": "damnatiomemoriae/portainerx"
 }
