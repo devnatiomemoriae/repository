@@ -33,7 +33,7 @@
     "ssl": true,
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem",
-    "hide_hassio_containers": false
+    "hide_hassio_containers": false,
     "keyfile": "privkey.pem"
   },
   "schema": {
@@ -43,6 +43,6 @@
     "keyfile": "str",
     "hide_hassio_containers": "bool",
     "leave_front_door_open": "bool?"
-  } 
+  }, 
   "image": "hassioaddons/portainer-{arch}"
 }
