@@ -43,5 +43,5 @@
     "hide_hassio_containers": "bool",
     "leave_front_door_open": "bool?"
   }, 
-  "image": "temujiny.duckdns.org/poz/poz"
+  "image": "poz/poz"
 }
