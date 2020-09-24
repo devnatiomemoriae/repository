@@ -1,6 +1,6 @@
 {
   "name": "PortainerX",
-  "version": "latest",
+  "version": "1.2.2",
   "slug": "portainerx",
   "description": "Manage your Docker environment with ease and freedom",
   "url": "https://github.com/devnatiomemoriae/addon-portainer",
