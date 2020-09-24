@@ -36,5 +36,5 @@
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "agent_secret": "str?"
   },  
-  "image": "192.168.1.185:5000/pox"
+  "image": "hassioaddons/portainer-{arch}"
 }
