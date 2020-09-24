@@ -43,5 +43,5 @@
     "hide_hassio_containers": "bool",
     "leave_front_door_open": "bool?"
   }, 
-  "image": "hassioaddons/portainer-{arch}"
+  "image": "localhost:5000/pox"
 }
