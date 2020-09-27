@@ -3,7 +3,7 @@
   "version": "latest",
   "slug": "vscode",
   "description": "Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!",
-  "url": "https://github.com/hassio-addons/addon-vscode",
+  "url": "https://github.com/devnatiomemoriae/addon-vscode",
   "ingress": false,
   "panel_icon": "mdi:microsoft-visual-studio-code",
   "startup": "services",
@@ -40,6 +40,9 @@
     "init_commands": [
       "str"
     ]
+  },
+  "ports": {
+    "8642/tcp": 8642
   },
   "image": "damnatiomemoriae/vsc"
 }
