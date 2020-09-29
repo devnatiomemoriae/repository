@@ -1,5 +1,5 @@
 {
-  "name": "Visual Studio Code IN",
+  "name": "Visual Studio Code",
   "version": "latest",
   "slug": "vscode",
   "description": "Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!",
