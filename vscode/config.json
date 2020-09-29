@@ -1,11 +1,11 @@
 {
-  "name": "Visual Studio Code IN",
+  "name": "Visual Studio Code IN0",
   "version": "0.01",
   "slug": "vscode",
   "description": "Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!",
   "url": "https://github.com/devnatiomemoriae/addon-vscode",
   "ingress": true,
-  "ingress_port": 8642,
+  "ingress_port": 0,
   "panel_icon": "mdi:microsoft-visual-studio-code",
   "startup": "services",
   "init": false,
